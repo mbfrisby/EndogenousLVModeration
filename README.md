@@ -1,5 +1,5 @@
 # EndogenousLVModeration
-Public location for code to calculate endogenous latent variance.
+Please email mbfrisby@umich.edu for questions concerning the use of the following code.
 
 This repository contains the R code needed to calculate the variance of endogenous latent variables. 
 
