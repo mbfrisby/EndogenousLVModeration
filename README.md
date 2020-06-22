@@ -1,5 +1,5 @@
 # EndogenousLVModeration
-Please email [Michael Frisby](mailto:mbfrisby@umich.edu?subject=[GitHub]%20Endogenous%20Latent%20Moderation) for questions concerning the use of the following code.
+Please email [Michael Frisby](mailto:mbfrisby@umich.edu?subject=[GitHub]%20Endogenous%20Latent%20Moderation) at [mbfrisby@umich.edu](mailto:mbfrisby@umich.edu?subject=[GitHub]%20Endogenous%20Latent%20Moderation) for questions concerning the use of the following code.
 
 ## Description 
 This repository contains the R code needed to calculate the variance of endogenous latent variables. 
