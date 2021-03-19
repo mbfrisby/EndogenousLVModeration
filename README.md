@@ -9,4 +9,4 @@ To use this code, you will need to install R (https://www.r-project.org/). Next,
 MarchandOutput.txt contains the relevant Mplus output for constructing the matrices found in the code. Use this as a reference to determine where these numbers come from, and to guide you in building matrices for *your* output. 
 
 ## Additional Resources
-For code and access related directly to ELMO, please see https://github.com/mbfrisby/ELMO
+For code and access related directly to ELMO, please see https://github.com/mbfrisby/ELMO.
